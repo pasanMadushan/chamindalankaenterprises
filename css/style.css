@@ -1,0 +1,406 @@
+.nav-item{
+	margin: 5px;
+}
+
+#contact{
+	margin-right: 10px;
+}
+
+.dropdown-item:hover{
+	border-bottom: 2px solid #2c2779;
+}
+
+
+
+.dropdown-menu{
+	
+	background-color: #2E2E2E;
+}
+
+.card1{
+	width: 30%;
+	margin: 1.666%;
+	
+}
+
+.up{
+	padding-top: 20px;
+}
+
+
+.adjust{
+	height: 115px;
+}
+
+.navbar-brand{
+	margin: 0px;
+}
+
+.imedit{
+	height: 200px;
+	width: 200px;
+}
+
+.card{
+	margin-left:20%;
+}
+
+
+.adj{
+	width: 75%;
+}
+
+#navtitle{
+	margin: 0px auto;
+	padding-left: 300px;
+}
+
+
+hr{
+	height: 2px;
+	background-color:#2c2779;
+	margin: 0px;
+}
+
+#logo{
+	padding-top: 2px;
+	margin: 0px auto;
+}
+
+.navbar{
+	background-color:#558ba5 !important;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 17px;
+	
+}
+
+.navadj{
+	padding-top: 125px;
+}
+
+.navcenter{
+	text-align: center;
+}
+
+.page-footer{
+	background-color: #558ba5 !important;
+}
+
+.dropdownback{
+	background-color: #558ba5;
+	padding-top: 13px;
+	border: none;
+}
+
+.dropdownitem:hover{
+	background-color: #2c2779;
+}
+
+.contacts{
+	height: 50px;
+	background-color: #2c2779;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.list1{
+	color: #FFFFFF;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 17px;
+	
+}
+
+.list-item{
+	padding-left: 10px;
+}
+
+
+#facebook{
+	color:#FFFFFF;
+}
+
+
+#about{
+	padding-top: 75px;
+	text-align: center;
+	padding-bottom: 75px;
+	
+	
+	
+}
+
+.large{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: bold;
+}
+
+
+.aln{
+	text-align: center;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#myBtn {
+
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  /* Set a background color */
+ /* color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+ /* padding: 15px; /* Some padding */
+ /* border-radius: 50%; /* Rounded corners */
+ /* font-size: 18px; /* Increase font size */
+	font-size: 50px;
+	color:rgba(229,229,229,1.00);
+}
+
+#myBtn:hover{
+	color:rgba(204,204,204,1.00);
+}
+
+.headcol{
+	color:white;;
+	
+}
+
+#hr1{
+	width: 75%;
+	margin: 0px auto;
+}
+
+.pa1{
+	font-size: 20px;
+
+	color: white;
+	text-align: center;
+}
+
+
+.about_banner{
+	
+}
+
+#hr2{
+	background-color:  white;
+	width: 15%;
+	margin: 0px auto;
+}
+
+.imagescontainer{
+	padding-top: 75px;
+	text-align: center;
+	
+}
+
+.bground{
+	
+	padding: 30px;
+}
+
+.headcol2{
+	color: #FFFFFF;
+}
+
+.adj1{
+	text-align: center;
+	padding-top: 50px;
+}
+
+#why_us{
+	padding-top: 55px;
+	text-align: center;
+}
+
+.head_title{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	text-align: center;
+}
+
+
+
+.lightbox-align{
+	display: inline;
+	float: left;
+	
+}
+
+
+.services{
+	text-align: center;
+	padding-top:50px;
+	height:450px;
+	background-color:#F7F7F7;
+}
+
+
+.boxes{
+	width: 20%;
+	margin: 2.5%;
+	
+	display: inline;
+	float: left;
+	
+	
+}
+
+@media screen and (max-width: 1190px) {
+	
+	.services{
+		height: 350px;
+	}
+	
+	
+}
+
+
+@media screen and (max-width:780px) {
+	
+	.services{
+		height: 550px;
+	}
+	
+}
+
+
+
+@media screen and (max-width: 775px) {
+	.boxes{
+		width: 45%;
+	}
+
+
+
+
+.image-tag{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	
+}
+
+
+
+#our_projects{
+	height:750px;
+	padding-top: 50px;
+	text-align: center;
+	
+}
+
+
+.light-box{
+	width: 30%;
+	background-color: blue;
+	display: inline;
+	float: left;
+}
+
+.lightbox_container{
+	text-align: center;
+}
+}
+
+@media screen and (max-width: 800px) {
+	
+	.contacts{
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	
+	
+}
+
+
+@media screen and (max-width: 650px) {
+	#logo{
+		height: 55px;
+	}
+	.list1{
+		font-size: 2.5vw;
+	}
+}
+
+
+@media screen and (max-width: 600px) {
+	.contacts{
+		height: 65px;
+	}
+}
+
+
+
+.scrolled{
+	border-bottom:2px solid #2c2779;
+}  
+
+#navcolor{
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+
+
+/*carousel */
+
+.carousel-text{
+	position:absolute;
+	right:15%;
+	bottom:250px;
+	left:13%;
+	z-index:10;
+	padding-top:20px;
+	padding-bottom:20px;
+	color:#fff;
+	text-align:left;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 25px;
+
+	
+}
+
+
+.btn:hover{
+	background-color: white;
+	color: black;
+}
+
+
+.triangle-topleft {
+      width:0 !important;
+      height:0  !important;
+      border-top: 600px solid rgba(255,255,255,0.25)  ;
+      border-right: 600px solid transparent ;
+	  padding-left: 200px;
+	
+    }
+
+
+.carousel-text1{
+		position:absolute;
+	right:15%;
+	bottom:200px;
+	left:13%;
+	z-index:10;
+	padding-top:20px;
+	padding-bottom:20px;
+	color:#fff;
+	text-align:left;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 25px;
+
+}
+
+
+
+.style2{
+	background-color:rgba(85,139,165,0.5);
+	width: 500px !important;
+}
+
+

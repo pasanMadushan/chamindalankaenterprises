@@ -1,0 +1,42 @@
+.nav-item{
+	margin: 5px;
+}
+
+#contact{
+	margin-right: 10px;
+}
+
+
+
+.dropdown-menu{
+	
+	background-color: #2E2E2E;
+}
+
+.card1{
+	width: 30%;
+	margin: 1.666%;
+	
+}
+
+.up{
+	padding-top: 20px;
+}
+
+
+.adjust{
+	height: 115px;
+}
+
+.navbar-brand{
+	margin: 0px;
+}
+
+.imedit{
+	height: 200px;
+	width: 200px;
+}
+
+.card{
+	margin-left:20%;
+}
